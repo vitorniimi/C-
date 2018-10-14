@@ -1,0 +1,7 @@
+D:\Projects\C#\Console\ReversePolishNotation\ReversePolishNotation\bin\Debug\ReversePolishNotation.exe.config
+D:\Projects\C#\Console\ReversePolishNotation\ReversePolishNotation\bin\Debug\ReversePolishNotation.exe
+D:\Projects\C#\Console\ReversePolishNotation\ReversePolishNotation\bin\Debug\ReversePolishNotation.pdb
+D:\Projects\C#\Console\ReversePolishNotation\ReversePolishNotation\obj\Debug\ReversePolishNotation.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Console\ReversePolishNotation\ReversePolishNotation\obj\Debug\ReversePolishNotation.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Console\ReversePolishNotation\ReversePolishNotation\obj\Debug\ReversePolishNotation.exe
+D:\Projects\C#\Console\ReversePolishNotation\ReversePolishNotation\obj\Debug\ReversePolishNotation.pdb
