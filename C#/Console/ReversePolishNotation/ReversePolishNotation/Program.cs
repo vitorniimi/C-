@@ -10,7 +10,7 @@ namespace ReversePolishNotation
     {
         static void Main(string[] args)
         {
-            string[] expressions = {"7+28%3*5", "6+8,5/2*3", "5*8+2/((5+8)-13)", "5*(12+8)/2", "5*((2+3)^2)", "2+2*4^3", "100+(5*((2+8)/2)-20)^3" };
+            string[] expressions = {"7+28%3*5", "6+8,50/2*3", "5*8+2/((5+8)-13)", "5*(12+8)/2", "5*((2+3)^2)", "2+2*4^3", "100+(5*((2+8)/2)-20)^3" };
             SetPriorities();
 
             foreach (string expression in expressions)
