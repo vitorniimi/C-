@@ -1,6 +1,6 @@
 ## Reverse Polish Notation
 
-Reverse Polish Notation - C# implementation.
+Reverse Polish Notation - C# implementation.<br/>
 Supported Operators: +, -, *, /, % (mod) and ^ (exponent).
 
 ### Usage
